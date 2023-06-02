@@ -12,7 +12,7 @@ Este proyecto fue creado desde 0, imitando la web de _[Tiendanube](https://www.t
 Se trata de una web responsive creada con **React y Tailwind**.
 
 Link para ver el proyecto deployado
-_[Tiendanube Web](https://tiendanubewebclone.netlify.app/)_
+_[Tiendanube Web](https://github.com/chiky222/tiendanube-webclone.git)_
 <br>
 <br>
 
