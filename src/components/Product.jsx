@@ -35,7 +35,7 @@ const Product = () => {
       </div>
       <div className='flex flex-col lg:flex-row-reverse items-center max-w-[80%] justify-evenly lg:mx-auto py-20'>
         <div className='flex lg:max-w-[45%] justify-center items-center mx-auto box-border'>
-          <img className='lg:p-20 max-w-lg box-border scale-50 md:scale-0' src={image2} alt="envio" />
+          <img className='lg:p-20 max-w-lg box-border scale-50 md:scale-100' src={image2} alt="envio" />
         </div>
         <div className='flex flex-col justify-end ml-20'>
           <div className='flex gap-4 items-center'>
