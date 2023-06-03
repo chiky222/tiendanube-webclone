@@ -3,7 +3,7 @@ import Button from './Button'
 
 const Card = ({frequency, title, price, description, buttonText = 'Probar gratis'}) => {
   return (
-    <div className='bg-white min-h-[410px] flex flex-col justify-between w-[280px] items-center p-6 border-r-2'>      
+    <div className='bg-white min-h-[410px] flex flex-col justify-between w-[280px] items-center p-6 border-2'>      
       <h4 className='text-[#2c3357] font-semibold text-xl'>{title}</h4>
       <h2 className={`flex text-3xl font-semibold text-[#4b5fa0]`}>
         <p className='text-sm self-center mr-1'>

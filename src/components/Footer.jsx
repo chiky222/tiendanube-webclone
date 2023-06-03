@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className='text-white bg-[#2c3357] py-56 md:py-6'>
       <section className='text-left justify-center items-center max-w-5xl mx-auto px-4'>
-        <h4 className='flex py-6 font-poppins font-bold text-xl'>tiendanube</h4>
+        <h4 className='flex py-6 font-poppins font-bold text-xl ml-8 lg:ml-0'>tiendanube</h4>
       </section>
 
       <section className='flex flex-wrap md:flex-nowrap justify-center text-left px-2 py-8 [&>div>h2]:font-bold [&>div>h2]:text-2xl max-w-5xl mx-auto'>
